@@ -20,3 +20,4 @@ dist
 *.sln
 *.sw?
 .hbuilderx/
+coverage/
