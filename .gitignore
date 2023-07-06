@@ -19,7 +19,12 @@ dist
 *.njsproj
 *.sln
 *.sw?
+<<<<<<< HEAD
 .hbuilderx/
 coverage/
 
 .hbuilderx/
+=======
+
+coverage/
+>>>>>>> 530f18a (1. added sass plugins.)
